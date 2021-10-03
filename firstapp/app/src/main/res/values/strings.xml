@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">First APP</string>
+    <string name="northeastern_university">Northeastern University</string>
+    <string name="show_me_the_name_and_email">Show me the name and email</string>
+    <string name="have_a_good_day">Have a Good Day</string>
+    <string name="new_activity">new activity</string>
+    <string name="friend_lists">Friend lists</string>
+</resources>
